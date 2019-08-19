@@ -1,0 +1,61 @@
+baseURL = "https://peterwhite.pw/"
+languageCode = "en-ie"
+title = "Personal site of Peter White"
+theme = "blackburn"
+publishDir = "docs"
+
+paginate = 10
+#disableKinds = ["RSS"]
+
+[indexes]
+	tag = "tags"
+
+[params]
+	subtitle = "Hey, that rhymes!"
+	brand = "Home"
+	dateFormat = "02 Jan, 2006"
+  highlightjs = "monokai"
+  highlightjs_extra_languages = ["yaml", "bash", "shell"]
+
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fas fa-list fa-fw'></i>"
+    weight = 1
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
+    name = "About"
+    pre = "<i class='fas fa-user fa-fw'></i>"
+    weight = 2
+    identifier = "about"
+    url = "/about/"
+  [[menu.main]]
+    name = "Tags"
+    pre = "<i class='fas fa-tags fa-fw'></i>"
+    weight = 3
+    identifier = "tags"
+    url = "/tags/"
+  [[menu.main]]
+    name = "Email"
+    pre = "<i class='fas fa-envelope fa-fw'></i>"
+    weight = 4
+    identifier = "Email"
+    url = "mailto:contact@peterwhite.pw"
+  [[menu.main]]
+    name = "RSS"
+    pre = "<i class='fas fa-rss-square fa-fw'></i>"
+    weight = 4
+    identifier = "RSS"
+    url = "/index.xml"
+	
+[social]
+  # Link your social networking accounts to the side menu by entering your username or ID.
+  linkedin = "pwhiteIRL"
+  twitter = "pwhiteIRL"
+  instagram = "peadardefaoite"
+  lastfm = "CenturionRonin"
+  github = "defaoite4"
+  boardgamegeek = "ronin19"

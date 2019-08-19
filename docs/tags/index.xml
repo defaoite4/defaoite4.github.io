@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Personal site of Peter White</title>
+    <link>https://peterwhite.pw/tags/</link>
+    <description>Recent content in Tags on Personal site of Peter White</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ie</language>
+    <lastBuildDate>Thu, 11 Apr 2019 06:54:50 +1000</lastBuildDate>
+    
+	<atom:link href="https://peterwhite.pw/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adventure</title>
+      <link>https://peterwhite.pw/tags/adventure/</link>
+      <pubDate>Thu, 11 Apr 2019 06:54:50 +1000</pubDate>
+      
+      <guid>https://peterwhite.pw/tags/adventure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Australia</title>
+      <link>https://peterwhite.pw/tags/australia/</link>
+      <pubDate>Thu, 11 Apr 2019 06:54:50 +1000</pubDate>
+      
+      <guid>https://peterwhite.pw/tags/australia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backpacking</title>
+      <link>https://peterwhite.pw/tags/backpacking/</link>
+      <pubDate>Thu, 11 Apr 2019 06:54:50 +1000</pubDate>
+      
+      <guid>https://peterwhite.pw/tags/backpacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Culture Shock</title>
+      <link>https://peterwhite.pw/tags/culture-shock/</link>
+      <pubDate>Fri, 28 Sep 2018 15:54:43 +0530</pubDate>
+      
+      <guid>https://peterwhite.pw/tags/culture-shock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain</title>
+      <link>https://peterwhite.pw/tags/domain/</link>
+      <pubDate>Mon, 02 Jul 2018 00:58:14 +0100</pubDate>
+      
+      <guid>https://peterwhite.pw/tags/domain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://peterwhite.pw/tags/first-post/</link>
+      <pubDate>Wed, 02 Aug 2017 23:35:42 +0100</pubDate>
+      
+      <guid>https://peterwhite.pw/tags/first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://peterwhite.pw/tags/git/</link>
+      <pubDate>Fri, 04 Aug 2017 00:33:36 +0100</pubDate>
+      
+      <guid>https://peterwhite.pw/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github Pages</title>
+      <link>https://peterwhite.pw/tags/github-pages/</link>
+      <pubDate>Mon, 02 Jul 2018 00:58:14 +0100</pubDate>
+      
+      <guid>https://peterwhite.pw/tags/github-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://peterwhite.pw/tags/hugo/</link>
+      <pubDate>Fri, 04 Aug 2017 00:33:36 +0100</pubDate>
+      
+      <guid>https://peterwhite.pw/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>https://peterwhite.pw/tags/travel/</link>
+      <pubDate>Thu, 11 Apr 2019 06:54:50 +1000</pubDate>
+      
+      <guid>https://peterwhite.pw/tags/travel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

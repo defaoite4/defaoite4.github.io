@@ -1,0 +1,44 @@
+<div class="pure-menu social">
+  <ul class="pure-menu-list">
+    {{ with .Site.Social.github }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://github.com/{{ . }}" target="_blank"><i class="fab fa-github-square fa-fw"></i>GitHub</a>
+    </li>
+    {{ end }}
+    {{ with .Site.Social.twitter }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://twitter.com/{{ . }}" target="_blank"><i class="fab fa-twitter-square fa-fw"></i>Twitter</a>
+    </li>
+    {{ end }}
+    {{ with .Site.Social.linkedin }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://linkedin.com/in/{{ . }}" target="_blank"><i class="fab fa-linkedin fa-fw"></i>LinkedIn</a>
+    </li>
+    {{ end }}
+    {{ with .Site.Social.instagram }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://instagram.com/{{ . }}" target="_blank"><i class="fab fa-instagram fa-fw"></i>Instagram</a>
+    </li>
+    {{ end }}
+    {{ with .Site.Social.lastfm }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://last.fm/user/{{ . }}" target="_blank"><i class="fab fa-lastfm-square fa-fw"></i>Last.fm</a>
+    </li>
+    {{ end }}
+    {{ with .Site.Social.boardgamegeek }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://boardgamegeek.com/user/{{ . }}" target="_blank"><i class="fas fa-dice fa-fw"></i>BGG</a>
+    </li>
+    {{ end }}
+    {{ with .Site.Social.steam }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://steamcommunity.com/id/{{ . }}" target="_blank"><i class="fab fa-steam-square fa-fw"></i>Steam</a>
+    </li>
+    {{ end }}
+    {{ with .Site.Social.reddit }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://reddit.com/user/{{ . }}" target="_blank"><i class="fab fa-reddit-square fa-fw"></i>Reddit</a>
+    </li>
+    {{ end }}
+  </ul>
+</div>
