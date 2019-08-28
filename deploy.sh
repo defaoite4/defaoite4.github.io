@@ -1,7 +1,6 @@
 #!/bin/bash
-
 # Usage:
-# ./deploy.sh
+# ./deploy.sh 'Commit message'
 
 echo -e "Deploying updates to GitHub..."
 
@@ -15,9 +14,8 @@ hugo
 git add -A
 
 # Commit content changes.
-config_msg="Adding new content `date`"
-echo "$config_msg"
-git commit -m "$config_msg"
+echo "Commit message: $1"
+git commit -m "$1"
 
 # Push content source
 git push origin master
