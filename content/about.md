@@ -10,7 +10,7 @@ I'm an applied mathematician turned software engineer. I previously studied in N
 
 I used to live in Galway, a city in the west of Ireland, and worked for Cisco, where I primarily used Java, Python, and C++ programming languages.
 
-I've recently completed a round-the-world backpacking trip. I managed to visit a small bit of India, east and south Australia (Brisbane, Sydney, Melbourne, Tasmania), New Zealand, Ecuador, Peru, Costa Rica, Brazil and Portugal.
+I've recently completed a round-the-world backpacking trip. I managed to visit a small bit of India, east and south Australia (Brisbane, Sydney, Melbourne, Tasmania), New Zealand, Ecuador, Peru, Costa Rica, Brazil and Portugal. I'm still in the progress of blogging about it.
 
 ### Interests
 
