@@ -12,7 +12,7 @@ paginate = 10
 
 [params]
 	subtitle = "Hey, that rhymes!"
-	brand = "Home"
+	brand = "home"
 	dateFormat = "02 Jan, 2006"
   highlightjs = "monokai"
   highlightjs_extra_languages = ["yaml", "bash", "shell"]
