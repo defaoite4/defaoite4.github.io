@@ -95,8 +95,19 @@ For those who may be interested, this site was built using Hugo and hosted on Gi
       
       <guid>https://peterwhite.pw/about/</guid>
       <description>You&amp;rsquo;ve found this site somewhere and now get to read all about me. Congratulations!
-Career I&amp;rsquo;m an applied mathematician turned software engineer. I previously studied in NUI, Galway (for far too long), but I managed to escape from academia. You can read all my academic history on LinkedIn on the sidebar.
-I used to live in Galway, a city in the west of Ireland, and worked for Cisco, where I primarily used Java, Python, and C++ programming languages.</description>
+I&amp;rsquo;m an applied mathematician / software engineer who&amp;rsquo;s just recently completed a round-the-world backpacking trip. I managed to visit a small bit of India, east and south Australia (Brisbane, Sydney, Melbourne, Tasmania), New Zealand, Ecuador, Peru, Costa Rica, Brazil and Portugal. I&amp;rsquo;m still in the progress of blogging about it.
+For career stuff, see the link on the sidebar.</description>
+    </item>
+    
+    <item>
+      <title>Career</title>
+      <link>https://peterwhite.pw/career/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://peterwhite.pw/career/</guid>
+      <description>Introduction I&amp;rsquo;m an applied mathematician turned software engineer. I previously studied in NUI, Galway. You can read all my academic history on LinkedIn on the sidebar as well as my CV here.
+I used to live in Galway, a city in the west of Ireland, and worked for Cisco for almost 3 years. There I worked on the Jabber desktop/mobile clients and the Webex Teams cloud platform.
+I&amp;rsquo;m currently seeking job opportunities in Europe in similar fields.</description>
     </item>
     
   </channel>

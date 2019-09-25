@@ -6,5 +6,5 @@ Commands to remember how to generate new content for my site
 ```
 hugo new post/name-of-post.md
 # Edit content of name-of-post.md and add related content
-./deploy.sh
+./deploy.sh 'Commit message'
 ```
